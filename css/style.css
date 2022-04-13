@@ -20,12 +20,12 @@ body {
 
 @font-face {
   font-family: 'TippyToes Bold';
-  src: url(../font/Bold.ttf);
+  src: url(font/Bold.ttf);
 }
 
 @font-face {
   font-family: 'TippyToes X-tra Bold';
-  src: url(../font/X-tra.ttf);
+  src: url(font/X-tra.ttf);
 }
 
 .container {
@@ -100,7 +100,7 @@ body {
 }
 
 .header {
-  background: url(../img/mount.png) no-repeat;
+  background: url(img/mount.png) no-repeat;
   background-position-x: 60%;
   background-position-y: -40%;
   padding: 0 150px;
@@ -348,11 +348,11 @@ body {
 }
 
 .motion__background {
-  background: url(../img/black.png);
+  background: url(img/black.png);
 }
 
 .motion__img {
-  background: url(../img/motion.png) no-repeat;
+  background: url(img/motion.png) no-repeat;
   min-height: 35vh;
   -o-object-fit: cover;
      object-fit: cover;
@@ -384,7 +384,7 @@ body {
 }
 
 .motion__map {
-  background: url(../img/map.png) no-repeat 101%;
+  background: url(img/map.png) no-repeat 101%;
   -webkit-filter: contrast(0.9);
           filter: contrast(0.9);
   background-position-y: bottom;
@@ -549,7 +549,7 @@ body {
 }
 
 .parallax {
-  background-image: url(../img/paralax.png);
+  background-image: url(img/paralax.png);
   height: 500px;
   background-attachment: fixed;
   background-position: center;
@@ -916,4 +916,3 @@ body {
   position: relative;
   color: #04F1FF;
 }
-/*# sourceMappingURL=style.css.map */
