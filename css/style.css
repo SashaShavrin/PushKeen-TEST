@@ -894,7 +894,7 @@ body {
 
 @media (max-width: 576px) {
   .owl-nav {
-    top: -1000px;
+    top: -900px;
   }
 }
 
