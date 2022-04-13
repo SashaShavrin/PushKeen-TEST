@@ -20,12 +20,12 @@ body {
 
 @font-face {
   font-family: 'TippyToes Bold';
-  src: url(font/Bold.ttf);
+  src: url(../font/Bold.ttf);
 }
 
 @font-face {
   font-family: 'TippyToes X-tra Bold';
-  src: url(font/X-tra.ttf);
+  src: url(../font/X-tra.ttf);
 }
 
 .container {
